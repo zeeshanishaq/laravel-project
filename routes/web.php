@@ -18,7 +18,9 @@ Route::get('/', function () {
 Route::get('contact', function(){
 
 
-})
+});
+
+Route::get('updateroute', function(){
 
 
-//something new
+});
