@@ -20,4 +20,14 @@ Route::get('welcome', function(){
 
 })
 
+Route::get('contact', function(){
+
+
+})
+
+Route::get('about', function(){
+
+
+})
+
 //something new
