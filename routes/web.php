@@ -30,6 +30,11 @@ Route::get('newroute', function(){
 
 });
 
+Route::get('goodwork', function(){
+
+
+});
+
 Route::get('anotherone', function(){
 
 
