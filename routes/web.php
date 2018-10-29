@@ -24,3 +24,13 @@ Route::get('updateroute', function(){
 
 
 });
+
+Route::get('newroute', function(){
+
+
+});
+
+Route::get('anotherone', function(){
+
+
+});
