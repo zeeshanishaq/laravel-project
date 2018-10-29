@@ -25,17 +25,12 @@ Route::get('updateroute', function(){
 
 });
 
-Route::get('newroute', function(){
+Route::get('updatedworksfine', function(){
 
 
 });
 
 Route::get('goodwork', function(){
-
-
-});
-
-Route::get('anotherone', function(){
 
 
 });
